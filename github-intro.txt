@@ -1,5 +1,6 @@
-﻿💡 What I Learned about GitHub
+﻿💡 What is GitHub and how it’s used
 
-1. GitHub helps developers collaborate and share code online.
-2. It allows us to track versions, use branches, and make pull requests.
-3. We can review others’ code, fix issues, and merge updates easily.
+1. GitHub is a cloud platform where developers store and share their code.
+2. It helps teams collaborate on projects using Git for version control.
+3. Developers can create branches, make pull requests, and review each other’s work.
+4. GitHub tracks every change, making teamwork and open-source contribution easy.
