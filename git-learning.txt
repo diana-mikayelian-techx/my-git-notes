@@ -1,0 +1,10 @@
+﻿💡 What I Learned from Git
+
+1. Git helps developers connect, share code, and track mistakes.
+2. We don’t upload temp or password files — we use .gitignore.
+3. Useful commands:
+   - git init → create repo
+   - git add . → add all files
+   - git commit -m "message" → save
+   - git push → upload to GitHub
+   - git pull → download changes
